@@ -1,9 +1,10 @@
 <script>
     import TI84Raytracer from "$lib/images/ti84 raytracer.jpg"
     import SoupCat from "$lib/images/soup-cat.gif"
+    import "$lib/listStyles.css"
 </script>
 
-<h2>raytracers/raymarchers</h2>
+<h2>raytracers/raymarchers (note: reflections are implemented wrong in all of these :|)</h2>
 
 <div class="list">
     <div class="item">
@@ -14,6 +15,11 @@
     <div class="item">
         <iframe src="https://www.shadertoy.com/embed/M33Gz4" title="shadertoy raymarcher" width=480 height=270></iframe>
         <h3>Shadertoy(raymarcher)</h3>
+    </div>
+
+    <div class="item">
+        <iframe src="https://61130257.javascript-raymarcher.pages.dev/public/" title="javascript raymarcher" width=480 height=270></iframe>
+        <h3>HTML/Javascript(this doesn't use webgl or anything, raymarcher)</h3>
     </div>
 
     <div class="item">
@@ -37,13 +43,4 @@
 </div>
 
 <style>
-    .list {
-        display: inline;
-        width: 100vw;
-    }
-
-    .item {
-        display: inline-block;
-        margin: 30px;
-    }
 </style>

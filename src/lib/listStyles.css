@@ -1,0 +1,9 @@
+.list {
+    display: inline;
+    width: 100vw;
+}
+
+.item {
+    display: inline-block;
+    margin: 30px;
+}

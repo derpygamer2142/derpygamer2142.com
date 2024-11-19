@@ -7,7 +7,7 @@
     <a href="/3d">3D Graphics</a>
     <!-- <a href="/blog">Blog???</a> -->
     <a href="/portfolio">Portfolio or something idk</a>
-    <a href="extensions.derpygamer2142.com">Turbowarp Extensions</a>
+    <a href="https://extensions.derpygamer2142.com">Turbowarp Extensions</a>
 </div>
 
 <style>
